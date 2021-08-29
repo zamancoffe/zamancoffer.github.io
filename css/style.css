@@ -52,7 +52,7 @@ nav
 }
 .containers
 {
-	height: 100vh;
+	height: auto;
 	width: 100%;
 	color: white;
 }
